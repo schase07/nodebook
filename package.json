@@ -1,0 +1,17 @@
+{
+    "author": "Secia Chase",
+    "name": "cidm4382_censor_cords_chase",
+    "version": "1.0.3",
+    "description": "Censor words out of text",
+    "main": "censortext",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/schase07/nodebook"
+    },
+    "keywords": [
+        "censor",
+        "words", "nodebook", "chase","cidm4382"
+        ],
+    "dependencies":{},
+    "engines":{ "node": "*"}
+}
